@@ -24,3 +24,8 @@ This project is a simple Encryption and Decryption Tool developed using Python a
 ## Author
 Dipanshu Sharma
 B.Tech CSE | Cybersecurity Enthusiast
+
+
+## Project Screenshot
+
+![Project Screenshot](screenshot.png)
